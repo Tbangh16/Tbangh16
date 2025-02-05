@@ -15,7 +15,7 @@
 - **BI & Data Analytics & Visualization:** Power BI, Tableau, Excel (Pivot Table, Dashboard)  
 
 ## 📫 Contact  
-- 📩 Email: [tbangh16@gmail.com]   - 📞 Phone/Zalo : [0837398393] 
+- 📩 Email: tbangh16@gmail.com            - 📞 Phone/Zalo : 0837398393 
 
 <div align="left" style="display: flex; gap: 10px; align-items: center;">
     <a href="https://www.linkedin.com/in/tr%E1%BA%A7n-b%C3%A1-ngh%C4%A9a-undefined-570a3b2ba/" target="_blank" rel="noreferrer">
